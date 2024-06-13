@@ -1,0 +1,8 @@
+variables:
+  THRESHOLD: 90
+  RANDOM_STATE_SEED: 42
+  THRESHOLD_LOSS: 0.2
+
+data_path:
+  PROCESSED_DATA_DIR: 'C:/Users/Admin/Desktop/DATN/DATA/Unraveled_PROCESSED/'
+
